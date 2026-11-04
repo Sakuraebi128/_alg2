@@ -12,7 +12,6 @@
 4. [NPC 搜尋玩家問題 (Game AI Pathfinding)](#4-npc-搜尋玩家問題-game-ai-pathfinding)
 5. [IC 設計中的電路繞線問題 (VLSI Routing)](#5-ic-設計中的電路繞線問題-vlsi-routing)
 6. [五大問題與演算法特性對照表](#六大問題與演算法特性對照表)
-7. [快速執行指引](#快速執行指引)
 
 ---
 
